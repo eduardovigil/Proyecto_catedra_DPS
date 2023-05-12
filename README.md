@@ -1,11 +1,18 @@
-# Sample Snack app
+# Proyecto_catedra_DPS
+#### Universidad Don Bosco 
+#### Materia: Diseño y Programación de Software Multiplataforma
+##### Grupo: G01T
+##### Alumnos:
+##### David Eduardo Rodriguez Vigil RV202840
+##### Oscar Alexander Guevara Rodríguez GR222756
+##### Erick Geovanni López Mejía LM220655
+##### Ronald David Pineda López PL171439
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+##### Link del manual de usuario:
+https://docs.google.com/document/d/1z2KM7I1hWb-yDJM4qlzk2LeKHLGEmzbljnd_2kWTF1I/edit?usp=sharing
+ ##### Link del trello:
+https://trello.com/b/3QopKUbQ/proyecto-catedra-dps
+##### Link de los mockups:
+https://drive.google.com/drive/folders/1wl_UGhtraeeAbXg6ouhtsAvsw5BpUVq-?usp=sharing
+##### Link del manual tecnico:
+https://drive.google.com/file/d/1oEbcul7bIwjsx8s6fYHUzXUqWlHF4Q_-/view?usp=sharing
