@@ -12,7 +12,7 @@
 https://docs.google.com/document/d/1z2KM7I1hWb-yDJM4qlzk2LeKHLGEmzbljnd_2kWTF1I/edit?usp=sharing
  ##### Link del trello:
 https://trello.com/b/3QopKUbQ/proyecto-catedra-dps
-##### Link de los mockups:
+##### Link de los mockups y esquema de navegacion:
 https://drive.google.com/drive/folders/1wl_UGhtraeeAbXg6ouhtsAvsw5BpUVq-?usp=sharing
 https://www.figma.com/file/FwpNBLOjUM9uiA8vY0rCns/Figma-basics?type=design&node-id=1669%3A162202&t=yuRfOwIQ9eX6H0Do-1
 ##### Link del manual tecnico:
